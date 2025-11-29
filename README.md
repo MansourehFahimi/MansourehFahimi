@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MansourehFahimi/MansourehFahimi/main/GitHub-Banner.png" width="100%" />
-</p>
-
 <!-- Profile Photo -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MansourehFahimi/MansourehFahimi/main/IMAGE%202025-11-29%2015%3A18%3A17.jpg" 
